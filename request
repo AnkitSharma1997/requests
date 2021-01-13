@@ -1,0 +1,321 @@
+# my
+{
+    "listofquotationTO": [
+        {
+            "applicationId": null,
+            "quoteId": "",
+            "channelId": "325",
+            "productId": "RPRT04SBSF",
+            "parentProductId": "NULL",
+            "parentProductVersion": 1,
+            "noOfAdults": 1,
+            "noOfKids": 0,
+            "tenure": 1,
+            "productPlanOptionCd": null,
+            "policyType": "INDIVIDUAL",
+            "saveFl": "YES",
+            "quoteTypeCd": "",
+            "totPremium": 7139,
+            "quotationDt": "01/12/2021",
+            "agentId": "1000015-01",
+            "campaignCd": "",
+            "productFamilyCd": "",
+            "policyNum": "",
+            "inwardTypeCd": "NEWBUSINESS",
+            "inwardSubTypeCd": "PROPOSALDOCUMENT",
+            "modalPremium": 0,
+            "initialPremium": null,
+            "ppmcFl": "",
+            "uwFl": "",
+            "caseType": "",
+            "premiumToBeCollected": null,
+            "premiumSuspenseAmount": null,
+            "renewalYear": 0,
+            "totUWLoadingAmount": null,
+            "uwLoadingPerc": null,
+            "totUWLoadingInclOfTaxes": null,
+            "modalServiceTax": null,
+            "modalEduCess": null,
+            "modalHigherEduCess": null,
+            "baseModalPremium": null,
+            "cummulativeBonusAmt": null,
+            "prevCummulativeBonus": null,
+            "actualCummulativeBonus": null,
+            "cummulativeBonusPerc": null,
+            "totRenewalLoadingAmount": null,
+            "totRenewalLoadingInclOfTaxes": null,
+            "sezUnit": "",
+            "stateCd": "",
+            "srNum": "",
+            "migrationFlag": "",
+            "gstAvailFlg": null,
+            "productTermUnitCd": null,
+            "uwLoadingModalPremium": 0,
+            "uwLoadingModalPremiumInclOfTaxes": 0,
+            "renewalLoadingModalAmount": null,
+            "renewalLoadingModalInclOfTaxes": null,
+            "modalLoadingPremium": 0,
+            "noOfInstallments": 0,
+            "initialPayment": null,
+            "astpFlag": "",
+            "quotationProductDOList": [
+                {
+                    "productId": "RPRT04SBSF",
+                    "productVersion": 1,
+                    "productPlanOptionCd": null,
+                    "basePremium": 7139,
+                    "sumInsured": null,
+                    "zoneCd": "ZONEA",
+                    "productTypeCd": "SUBPLAN",
+                    "extraPremium": null,
+                    "discount": null,
+                    "payoutOption": "",
+                    "reducingBalanceSI": "",
+                    "paymentFrequencyCd": "SINGLE",
+                    "astpLoadingPerc": 0,
+                    "quotationProductBenefitDOList": [
+                        {
+                            "benefitTypeCd": "",
+                            "benefitId": "",
+                            "amount": 0,
+                            "productId": ""
+                        }
+                    ],
+                    "quotationProductInsuredDOList": [
+                        {
+                            "issueAge": 0,
+                            "genderCd": "M",
+                            "insuredTypeCd": "PRIMARY",
+                            "cityCd": "",
+                            "mobileNum": 8787878788,
+                            "emailAddress": "quote@gmail.com",
+                            "dob": "01/01/1981",
+                            "zoneCd": "ZONEA",
+                            "smokerStatusCd": "",
+                            "chewTobaccoCd": "",
+                            "consumeAlcoholCd": "",
+                            "relationCd": "SELF",
+                            "modalPremium": 0,
+                            "extraPremium": 0,
+                            "discount": 0,
+                            "productPlanOptionCd": null,
+                            "bmi": null,
+                            "height": 0,
+                            "weight": 0,
+                            "sumInsured": "250000.00",
+                            "refGuid": "",
+                            "ppmcFl": "",
+                            "uwFl": "",
+                            "ppmcSetName": "",
+                            "customerId": "",
+                            "uwLoadingPerc": null,
+                            "uwLoadingAmount": null,
+                            "cummulativeBonusAmt": null,
+                            "prevCummulativeBonus": null,
+                            "actualCummulativeBonus": null,
+                            "cummulativeBonusPerc": null,
+                            "annualIncome": 0,
+                            "astpLoadingPerc": 0,
+                            "quotationProductInsuredBenefitDOList": [
+                                {
+                                    "benefitTypeCd": "",
+                                    "benefitId": "",
+                                    "amount": 0,
+                                    "productId": ""
+                                }
+                            ]
+                        }
+                    ],
+                    "quotationProductChargeDOList": [
+                        {
+                            "chargeClassCd": "",
+                            "chargeAmount": 0,
+                            "chargePercentage": 0
+                        }
+                    ],
+                    "quotationProductAddOnDOList": [
+                        {
+                            "productPlanOptionCd": null,
+                            "productId": "RPRT04SBSF"
+                        }
+                    ]
+                }
+            ],
+            "quotationChargeDOList": [
+                {
+                    "chargeClassCd": "",
+                    "chargeAmount": null,
+                    "chargePercentage": null,
+                    "chargeType": null
+                }
+            ],
+            "quotationChangeDOList": [
+                {
+                    "alterationType": "",
+                    "alterationTypeDesc": null
+                }
+            ]
+        }
+    ]
+}
+-------------------------------------------------------------------------------------------------------------------------------------
+
+{
+    "listofquotationTO": [
+        {
+            "actualCummulativeBonus": null,
+            "agentId": "1000015-01",
+            "astpFlag": "",
+            "applicationId":null,
+            "baseModalPremium": null,
+            "campaignCd": "",
+            "caseType": "",
+            "channelId": "325",
+            "cummulativeBonusAmt": null,
+            "cummulativeBonusPerc": null,
+            "gstAvailFlg": null,
+            "initialPayment": null,
+            "initialPremium": null,
+            "inwardSubTypeCd": "PROPOSALDOCUMENT",
+            "inwardTypeCd": "NEWBUSINESS",
+            "migrationFlag": "",
+            "modalEduCess": null,
+            "modalHigherEduCess": null,
+            "modalLoadingPremium": 0,
+            "modalPremium": 0,
+            "modalServiceTax": null,
+            "noOfAdults": 1,
+            "noOfInstallments": 0,
+            "noOfKids": 0,
+            "parentProductId": "NULL",
+            "parentProductVersion": 1,
+            "policyNum": "",
+            "policyType": "INDIVIDUAL",
+            "ppmcFl": "",
+            "premiumSuspenseAmount": null,
+            "premiumToBeCollected": null,
+            "prevCummulativeBonus": null,
+            "productFamilyCd": "",
+            "productId": "RACC04SBSF",
+            "productPlanOptionCd": "IN-ACC5.5-HMB10K",
+            "productTermUnitCd": null,
+            "quotationChangeDOList": [
+                {
+                    "alterationType": "",
+                    "alterationTypeDesc": null
+                }
+            ],
+            "quotationChargeDOList": [
+                {
+                    "chargeAmount": 0,
+                    "chargeClassCd": "",
+                    "chargePercentage": null,
+                    "chargeType": null
+                }
+            ],
+            "quotationDt": "12/30/2021",
+            "quotationProductDOList": [
+                {
+                    "astpLoadingPerc": 0,
+                    "basePremium": 46709,
+                    "discount": null,
+                    "extraPremium": 0,
+                    "paymentFrequencyCd": "SINGLE",
+                    "payoutOption": "",
+                    "productId": "RACC04SBSF",
+                    "productPlanOptionCd": "IN-ACC5.5-HMB10K",
+                    "productTypeCd": "SUBPLAN",
+                    "productVersion": 1,
+                    "quotationProductAddOnDOList": [
+                        {
+                            "productId": "RACC04SBSF",
+                            "productPlanOptionCd": ""
+                        }
+                    ],
+                    "quotationProductBenefitDOList": [
+                        {
+                            "amount": 0,
+                            "benefitId": "",
+                            "benefitTypeCd": "",
+                            "productId": "RACC04SBSF"
+                        }
+                    ],
+                    "quotationProductChargeDOList": [
+                        {
+                            "chargeAmount": 0,
+                            "chargeClassCd": "",
+                            "chargePercentage": 0
+                        }
+                    ],
+                    "quotationProductInsuredDOList": [
+                        {
+                            "actualCummulativeBonus": null,
+                            "annualIncome": 0,
+                            "astpLoadingPerc": 0,
+                            "bmi": 22.89,
+                            "chewTobaccoCd": "",
+                            "cityCd": "",
+                            "consumeAlcoholCd": "",
+                            "cummulativeBonusAmt": null,
+                            "cummulativeBonusPerc": null,
+                            "customerId": "",
+                            "discount": 0,
+                            "dob": "02/15/1994",
+                            "emailAddress": "afg@gmail.com",
+                            "extraPremium": 0,
+                            "genderCd": "M",
+                            "height": 0,
+                            "insuredTypeCd": "PRIMARY",
+                            "issueAge": 0,
+                            "mobileNum": 8583898786,
+                            "modalPremium": 0,
+                            "ppmcFl": "",
+                            "ppmcSetName": "",
+                            "prevCummulativeBonus": null,
+                            "productPlanOptionCd": "IN-ACC5.5-HMB10K",
+                            "quotationProductInsuredBenefitDOList": [
+                                {
+                                    "amount": 0,
+                                    "benefitId": "",
+                                    "benefitTypeCd": "",
+                                    "productId": "RACC04SBSF"
+                                }
+                            ],
+                            "refGuid": "",
+                            "relationCd": "SELF",
+                            "smokerStatusCd": "",
+                            "sumInsured": 550000,
+                            "uwFl": "",
+                            "uwLoadingAmount": null,
+                            "uwLoadingPerc": null,
+                            "weight": 0,
+                            "zoneCd": "ZONEA"
+                        }
+                    ],
+                    "reducingBalanceSI": "",
+                    "sumInsured": null,
+                    "zoneCd": "ZONEA"
+                }
+            ],
+            "quoteId": "",
+            "quoteTypeCd": "",
+            "renewalLoadingModalAmount": null,
+            "renewalLoadingModalInclOfTaxes": null,
+            "renewalYear": 0,
+            "saveFl": "YES",
+            "sezUnit": "",
+            "srNum": "",
+            "stateCd": "",
+            "tenure": 1,
+            "totPremium": 49605.0,
+            "totRenewalLoadingAmount": null,
+            "totRenewalLoadingInclOfTaxes": null,
+            "totUWLoadingAmount": null,
+            "totUWLoadingInclOfTaxes": null,
+            "uwFl": "",
+            "uwLoadingModalPremium": 0.0,
+            "uwLoadingModalPremiumInclOfTaxes": 0.0,
+            "uwLoadingPerc": null
+        }
+    ]
+}
